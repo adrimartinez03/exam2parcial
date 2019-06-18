@@ -1,0 +1,112 @@
+.navbar{
+	background-color: #D4CACB !important;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+body{	
+font-family: 'Montserrat', sans-serif;	
+	color: #fff;
+}
+
+.menu a{
+	color: #fff;
+	padding: 40px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;
+}
+
+
+.overlay{
+	background-color:rgba(0,0,0,0.40);
+		padding: 40px;
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+
+.bg-eyes{
+	background-image: url( "../img/chica.jpg" );
+	padding: 40px;
+}
+
+
+
+
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+	background-image: 40px;
+}
+
+.menus h3{
+	font-size: 16px;
+	text-align: center;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	text-align: center;
+	color:#673BF9;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	text-align: center;
+	font-size: 17px;
+	font-weight: 800;
+}
+
+
+.price{
+	color: #F38AE8;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #673BF9;
+}
+
+
+
